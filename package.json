@@ -1,0 +1,27 @@
+{
+  "name": "jwe",
+  "version": "1.0.0",
+  "description": "JS Implementation of JWE RFC 7516 for Node.js & Browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwyl/jwe.git"
+  },
+  "keywords": [
+    "JWE",
+    "RFC-7516",
+    "Node",
+    "Browser",
+    "Universal",
+    "React-Native"
+  ],
+  "author": "YOUR NAME HERE!",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dwyl/jwe/issues"
+  },
+  "homepage": "https://github.com/dwyl/jwe#readme"
+}
